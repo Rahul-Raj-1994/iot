@@ -1,0 +1,118 @@
+[
+  {
+    "id": "Demo_Activity",
+    "ts": "2022-05-13T16:05:46.076-0500",
+    "Activity": 1,
+    "Date": 1652475946076,
+    "Algorithm": 3,
+    "EventProcessedUtcTime": "2022-05-13T21:05:45.8766637Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2022-05-13T21:05:45.6800000Z",
+    "partid": "0"
+  },
+  {
+    "deviceId": "DemoLocationDevice1",
+    "MarvelMindX": "       2.923",
+    "MarvelMindY": "      -2.376",
+    "MarvelMindZ": "      -1.205",
+    "EventProcessedUtcTime": "2022-05-27T00:26:37.9304220Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2022-05-27T00:24:57.8090000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "DemoLocationDevice1",
+      "ConnectionDeviceGenerationId": "637883270420648462",
+      "EnqueuedTime": "2022-05-27T00:24:57.8080000Z"
+    },
+    "partid": "0",
+    "id": "0dd276e9-2d97-4793-8c3a-64b15c865b8b"
+  },
+  {
+    "id": "Demo_Activity",
+    "ts": "2022-05-13T16:05:46.076-0500",
+    "Activity": 1,
+    "Date": 1652475946076,
+    "Algorithm": 3,
+    "EventProcessedUtcTime": "2022-05-13T21:05:45.8766637Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2022-05-13T21:05:45.6800000Z",
+    "partid": "0"
+  },
+  {
+    "deviceId": "DemoLocationDevice1",
+    "MarvelMindX": "       2.923",
+    "MarvelMindY": "      -2.376",
+    "MarvelMindZ": "      -1.205",
+    "EventProcessedUtcTime": "2022-05-27T00:26:37.9304220Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2022-05-27T00:24:57.8090000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "DemoLocationDevice1",
+      "ConnectionDeviceGenerationId": "637883270420648462",
+      "EnqueuedTime": "2022-05-27T00:24:57.8080000Z"
+    },
+    "partid": "0",
+    "id": "0dd276e9-2d97-4793-8c3a-64b15c865b8b"
+  },
+  {
+    "id": "Demo_Activity",
+    "ts": "2022-05-13T16:05:46.076-0500",
+    "Activity": 2,
+    "Date": 1652475946076,
+    "Algorithm": 3,
+    "EventProcessedUtcTime": "2022-05-13T21:05:45.8766637Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2022-05-13T21:05:45.6800000Z",
+    "partid": "0"
+  },
+  {
+    "deviceId": "DemoLocationDevice1",
+    "MarvelMindX": "       2.923",
+    "MarvelMindY": "      -2.376",
+    "MarvelMindZ": "      -1.205",
+    "EventProcessedUtcTime": "2022-05-27T00:26:37.9304220Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2022-05-27T00:24:57.8090000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "DemoLocationDevice1",
+      "ConnectionDeviceGenerationId": "637883270420648462",
+      "EnqueuedTime": "2022-05-27T00:24:57.8080000Z"
+    },
+    "partid": "0",
+    "id": "0dd276e9-2d97-4793-8c3a-64b15c865b8b"
+  },
+  {
+    "id": "Demo_Activity",
+    "ts": "2022-05-13T16:05:46.076-0500",
+    "Activity": 3,
+    "Date": 1652475946076,
+    "Algorithm": 3,
+    "EventProcessedUtcTime": "2022-05-13T21:05:45.8766637Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2022-05-13T21:05:45.6800000Z",
+    "partid": "0"
+  },
+  {
+    "deviceId": "DemoLocationDevice1",
+    "MarvelMindX": "       2.923",
+    "MarvelMindY": "      -2.376",
+    "MarvelMindZ": "      -1.205",
+    "EventProcessedUtcTime": "2022-05-27T00:26:37.9304220Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2022-05-27T00:24:57.8090000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "DemoLocationDevice1",
+      "ConnectionDeviceGenerationId": "637883270420648462",
+      "EnqueuedTime": "2022-05-27T00:24:57.8080000Z"
+    },
+    "partid": "0",
+    "id": "0dd276e9-2d97-4793-8c3a-64b15c865b8b"
+  }
+]
